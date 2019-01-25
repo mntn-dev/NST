@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/mntn-dev/NST/master/_/og/og.png" alt="NST"/>
 
 
-* 🔻<a href="https://nst.re/" target="_blank">__NST.re__</a> x <a href="https://nst.re/api" target="_blank">__NST.re/api__</a> x <a href="https://nst.re/upd/x" target="_blank">__NST.re/upd/x__</a>
-
+🔻<a href="https://nst.re/" target="_blank">NST.re</a> (<code><a href="https://nst.re/api" target="_blank">/api</a>, <a href="https://nst.re/upd/x" target="_blank">/upd/x</a></code>)
 
 <pre>
 * bdy
